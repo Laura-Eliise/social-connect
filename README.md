@@ -15,10 +15,10 @@ To test the project you need to have [NodeJS](https://nodejs.org/en/) installed.
 2. Start backend server by going to **/backend** directory and run `go run server.go`
 
 ## Authors 
-Kristofer Kangro
-Zane Krūmiņa
-Laura-Eliise Marrandi
-Vic89
+- Kristofer Kangro
+- Zane Krūmiņa
+- Laura-Eliise Marrandi
+- Vic89
 
 
 
