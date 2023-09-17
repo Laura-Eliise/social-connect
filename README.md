@@ -1,3 +1,5 @@
+# Social Connect
+
 ## Project description
 Facebook-like social network that will contain the following features:
 - Followers
